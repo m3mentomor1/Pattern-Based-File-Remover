@@ -1,18 +1,5 @@
-
-# --------------------------------------------------
-# File Name: file_remover.py
-# --------------------------------------------------
-# Date Completed: 12-08-2023
-# --------------------------------------------------
-# Description:
-# This is a simple pattern-based file remover that 
-# provides an efficient way to clean up files in a 
-# specified directory based on a user-defined 
-# naming pattern.
-# --------------------------------------------------
-
-import os
-import glob
+import os    # OS
+import glob  # Glob
 
 # Specify the directory and the pattern to match files (adjust it according to your file naming pattern)
 directory_path = 'C:/**/**'
