@@ -1,4 +1,4 @@
-# Pattern-Based-File-Remover
+# Pattern-Based File Remover
 
 ### 🧐 I. Overview
 This is a simple pattern-based file deletion program that provides an efficient way to clean up files in a specified directory based on a user-defined naming pattern.
